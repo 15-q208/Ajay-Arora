@@ -1,7 +1,7 @@
 ## Welcome to my website  
 
 You can use the [editor on GitHub](https://github.com/15-q208/Ajay-Arora/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-<h1> my name is ajay arora and i have open fresh vegetable shop in dabouli near jai durga mandir,kanpur,up.
+<h1> my name is ajay arora and i have open fresh vegetable shop in dabouli near jai durga mandir,kanpur,up.</h1>
 
 ### Markdown
 
